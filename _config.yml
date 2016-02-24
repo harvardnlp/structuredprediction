@@ -1,7 +1,7 @@
 # Site settings
-title: Workshop on Structured Prediction."
+title: "Workshop on Structured Prediction."
 email: your-email@domain.com
-description: "Workshop on structured prediction."
+description: "Workshop on structured prediction"
 baseurl: "/structuredprediction/"
 url: "http://harvardnlp.github.io/structuredprediction/"
 twitter_username: jekyllrb
