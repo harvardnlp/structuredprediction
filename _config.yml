@@ -2,7 +2,7 @@
 title: Your awesome title
 email: your-email@domain.com
 description: "Workshop on structured prediction."
-baseurl: ""
+baseurl: "/structuredprediction/"
 url: "http://harvardnlp.github.io/structuredprediction/"
 twitter_username: jekyllrb
 github_username:  jekyll
