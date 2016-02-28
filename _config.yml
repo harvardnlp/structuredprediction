@@ -1,11 +1,11 @@
 # Site settings
-title: "Workshop on Structured Prediction."
-email: your-email@domain.com
-description: "Workshop on structured prediction"
+title: "EMNLP 16: Structured Prediction for Natural Language Processing"
+email: kw@kwchang.net
+#description: "EMNLP 16: Structured Prediction for Natural Language Processing"
 baseurl: "/structuredprediction/"
 url: "http://harvardnlp.github.io/structuredprediction/"
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 markdown: kramdown
