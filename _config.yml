@@ -2,8 +2,8 @@
 title: "EMNLP 16: Structured Prediction for Natural Language Processing"
 email: kw@kwchang.net
 #description: "EMNLP 16: Structured Prediction for Natural Language Processing"
-baseurl: "/structuredprediction/"
-url: "http://harvardnlp.github.io/structuredprediction/"
+baseurl: "/"
+url: "http://structuredprediction.github.io/"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
